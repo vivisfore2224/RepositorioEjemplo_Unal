@@ -6,7 +6,11 @@
 
 /**
  *
+<<<<<<< HEAD
  * @author HAMB
+=======
+ * @author vivis
+>>>>>>> 5e7627dc298ce230d019f35688e54b4f60c7ad8c
  */
 public class ClaseClon {
     
