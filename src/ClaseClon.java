@@ -14,4 +14,6 @@
  */
 public class ClaseClon {
     
+    private String Nombre;
+    
 }
