@@ -14,4 +14,5 @@
  */
 public class ClaseClon {
     
+    private float numero;
 }
