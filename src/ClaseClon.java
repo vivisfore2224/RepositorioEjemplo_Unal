@@ -14,5 +14,10 @@
  */
 public class ClaseClon {
     
+<<<<<<< HEAD
     private float numero;
+=======
+    private String Nombre;
+    
+>>>>>>> viviana_2
 }
